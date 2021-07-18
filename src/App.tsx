@@ -36,7 +36,7 @@ const newTasks = [
   ...tasks, {
   title: taskTitle,
   id: uuidv4(),
-  completed: false,
+  completed: true,
 
 },
 
